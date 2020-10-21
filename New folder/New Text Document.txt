@@ -21,12 +21,42 @@
 		<pre>		11
 		2
 		3</pre>
+			<!-- komentari ketdeba aq -->
 		<ul>
-		<li>home</li>
-		<li>contact</li>
-		<li>news</li>
-		<li>about</li>
+			<li>home</li>
+			<li>contact</li>
+			<li>news</li>
+			<li>about</li>
 		</ul>
+			<ol type="A">
+			<li>home</li>
+			<li>contact</li>
+			<li>news</li>
+			<li>about</li>
+		</ol>
+			<ol type="I">
+			<li>home</li>
+			<li>contact</li>
+			<li>news</li>
+			<li>about</li>
+		</ol>
+		<ol reversed type="I">
+			<li>home</li>
+			<li>contact</li>
+			<li>news</li>
+			<li>about</li>
+		</ol>
+			<ol reversed type="I" start="IV">
+			<li>home</li>
+			<li>contact</li>
+			<li>news</li>
+			<li>about</li>
+		</ol>
+		<dl>
+			<dt>Coffe</dt>
+				<dd>hot, black</dd>
+				<dd>hot, black</dd>
+		</dl>
 	</body>
 
 </html>
