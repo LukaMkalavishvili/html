@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html>
 
@@ -9,6 +10,23 @@
 		<h1>This is a Heading</h1>
 		<p>This is a paragraph</p>
 		<u>This is underlined</u>
+		<br>
+		<s>it scratches the line</s>
+		<p>TEXTEXT TEXT<sub>TEXT</sub>TEXTEXTEXT</p>
+		<p>TEXTEXT TEXT<sup>TEXT</sup>TEXTEXTTEXT TEXT</p>
+		<blockquote>ssss</blockquote>
+		<abbr title="Hypertext Markup langauge">HTML</abbr>
+		<br>
+		<q>million</q>
+		<pre>		11
+		2
+		3</pre>
+		<ul>
+		<li>home</li>
+		<li>contact</li>
+		<li>news</li>
+		<li>about</li>
+		</ul>
 	</body>
 
 </html>
